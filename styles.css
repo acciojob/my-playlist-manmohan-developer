@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+body{
+	background-color: rgb(204, 204, 204);
+	
+}
+#heading{
+	text-align: center;
+}
+#playlist{
+	border: 2px solid black;
+	border-radius: 5px;
+	background-color: white;
+}
+ul{
+	list-style-type: none;
+}
+#video{
+	width:70%;
+	padding: 10px;
+	margin:0 50px;
+	border: 2px solid black;
+	border-radius: 5px;
+	background-color: white;
+}
